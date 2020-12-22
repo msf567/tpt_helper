@@ -1,0 +1,570 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/Users/msf567/tpt_helper/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/165f7e3/
+,ev	src/Session.vim	/^nnoremap ,ev :vsp $MYVIMRC$/;"	m
+,ez	src/Session.vim	/^nnoremap ,ez :vsp ~\/.zshrc$/;"	m
+,s	src/Session.vim	/^nnoremap ,s :mksession$/;"	m
+,sv	src/Session.vim	/^nnoremap ,sv :source $MYVIMRC$/;"	m
+,u	src/Session.vim	/^nnoremap ,u :GundoToggle$/;"	m
+<BS>	src/Session.vim	/^vmap <BS> "-d$/;"	m
+<C-P>	src/Session.vim	/^nnoremap <silent> <C-P> :CtrlP$/;"	m
+<D-c>	src/Session.vim	/^vmap <D-c> "*y$/;"	m
+<D-v>	src/Session.vim	/^map! <D-v> *$/;"	m
+<D-v>	src/Session.vim	/^nmap <D-v> "*P$/;"	m
+<D-v>	src/Session.vim	/^vmap <D-v> "-d"*P$/;"	m
+<D-x>	src/Session.vim	/^vmap <D-x> "*d$/;"	m
+<Plug>NetrwBrowseX	src/Session.vim	/^nnoremap <silent> <Plug>NetrwBrowseX :call netrw#BrowseX(netrw#GX(),netrw#CheckIfRemote(netrw#GX/;"	m
+<Plug>NetrwBrowseXVis	src/Session.vim	/^vnoremap <silent> <Plug>NetrwBrowseXVis :call netrw#BrowseXVis()$/;"	m
+Binasc	src/Binasc.cpp	/^Binasc::Binasc(void) {$/;"	f	class:smf::Binasc
+Binasc	src/Binasc.h	/^class Binasc {$/;"	c	namespace:smf
+BuildMachineOSBuild	bin/tpt_helperDebug.app/Contents/Info.plist	/^	<key>BuildMachineOSBuild<\/key>$/;"	k
+CFBundleDevelopmentRegion	bin/tpt_helperDebug.app/Contents/Info.plist	/^	<key>CFBundleDevelopmentRegion<\/key>$/;"	k
+CFBundleDevelopmentRegion	openFrameworks-Info.plist	/^	<key>CFBundleDevelopmentRegion<\/key>$/;"	k
+CFBundleExecutable	bin/tpt_helperDebug.app/Contents/Info.plist	/^	<key>CFBundleExecutable<\/key>$/;"	k
+CFBundleExecutable	openFrameworks-Info.plist	/^	<key>CFBundleExecutable<\/key>$/;"	k
+CFBundleIconFile	bin/tpt_helperDebug.app/Contents/Info.plist	/^	<key>CFBundleIconFile<\/key>$/;"	k
+CFBundleIconFile	openFrameworks-Info.plist	/^	<key>CFBundleIconFile<\/key>$/;"	k
+CFBundleIdentifier	bin/tpt_helperDebug.app/Contents/Info.plist	/^	<key>CFBundleIdentifier<\/key>$/;"	k
+CFBundleIdentifier	openFrameworks-Info.plist	/^	<key>CFBundleIdentifier<\/key>$/;"	k
+CFBundleInfoDictionaryVersion	bin/tpt_helperDebug.app/Contents/Info.plist	/^	<key>CFBundleInfoDictionaryVersion<\/key>$/;"	k
+CFBundleInfoDictionaryVersion	openFrameworks-Info.plist	/^	<key>CFBundleInfoDictionaryVersion<\/key>$/;"	k
+CFBundlePackageType	bin/tpt_helperDebug.app/Contents/Info.plist	/^	<key>CFBundlePackageType<\/key>$/;"	k
+CFBundlePackageType	openFrameworks-Info.plist	/^	<key>CFBundlePackageType<\/key>$/;"	k
+CFBundleSignature	bin/tpt_helperDebug.app/Contents/Info.plist	/^	<key>CFBundleSignature<\/key>$/;"	k
+CFBundleSignature	openFrameworks-Info.plist	/^	<key>CFBundleSignature<\/key>$/;"	k
+CFBundleSupportedPlatforms	bin/tpt_helperDebug.app/Contents/Info.plist	/^	<key>CFBundleSupportedPlatforms<\/key>$/;"	k
+CFBundleVersion	bin/tpt_helperDebug.app/Contents/Info.plist	/^	<key>CFBundleVersion<\/key>$/;"	k
+CFBundleVersion	openFrameworks-Info.plist	/^	<key>CFBundleVersion<\/key>$/;"	k
+DTCompiler	bin/tpt_helperDebug.app/Contents/Info.plist	/^	<key>DTCompiler<\/key>$/;"	k
+DTPlatformBuild	bin/tpt_helperDebug.app/Contents/Info.plist	/^	<key>DTPlatformBuild<\/key>$/;"	k
+DTPlatformName	bin/tpt_helperDebug.app/Contents/Info.plist	/^	<key>DTPlatformName<\/key>$/;"	k
+DTPlatformVersion	bin/tpt_helperDebug.app/Contents/Info.plist	/^	<key>DTPlatformVersion<\/key>$/;"	k
+DTSDKBuild	bin/tpt_helperDebug.app/Contents/Info.plist	/^	<key>DTSDKBuild<\/key>$/;"	k
+DTSDKName	bin/tpt_helperDebug.app/Contents/Info.plist	/^	<key>DTSDKName<\/key>$/;"	k
+DTXcode	bin/tpt_helperDebug.app/Contents/Info.plist	/^	<key>DTXcode<\/key>$/;"	k
+DTXcodeBuild	bin/tpt_helperDebug.app/Contents/Info.plist	/^	<key>DTXcodeBuild<\/key>$/;"	k
+FILES	Makefile	/^FILES = $(shell xcodebuild -scheme "tpt_helper Debug" build) $/;"	m
+IDEDidComputeMac32BitWarning	tpt_helper.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist	/^	<key>IDEDidComputeMac32BitWarning<\/key>$/;"	k
+LSMinimumSystemVersion	bin/tpt_helperDebug.app/Contents/Info.plist	/^	<key>LSMinimumSystemVersion<\/key>$/;"	k
+MidiEvent	src/MidiEvent.cpp	/^MidiEvent::MidiEvent(const MidiEvent& mfevent) : MidiMessage() {$/;"	f	class:smf::MidiEvent
+MidiEvent	src/MidiEvent.cpp	/^MidiEvent::MidiEvent(int aTime, int aTrack, vector<uchar>& message)$/;"	f	class:smf::MidiEvent
+MidiEvent	src/MidiEvent.cpp	/^MidiEvent::MidiEvent(int command) : MidiMessage(command)  {$/;"	f	class:smf::MidiEvent
+MidiEvent	src/MidiEvent.cpp	/^MidiEvent::MidiEvent(int command, int p1) : MidiMessage(command, p1) {$/;"	f	class:smf::MidiEvent
+MidiEvent	src/MidiEvent.cpp	/^MidiEvent::MidiEvent(int command, int p1, int p2)$/;"	f	class:smf::MidiEvent
+MidiEvent	src/MidiEvent.cpp	/^MidiEvent::MidiEvent(void) : MidiMessage() {$/;"	f	class:smf::MidiEvent
+MidiEvent	src/MidiEvent.h	/^class MidiEvent : public MidiMessage {$/;"	c	namespace:smf
+MidiEventList	src/MidiEventList.cpp	/^MidiEventList::MidiEventList(MidiEventList&& other) {$/;"	f	class:smf::MidiEventList
+MidiEventList	src/MidiEventList.cpp	/^MidiEventList::MidiEventList(const MidiEventList& other) {$/;"	f	class:smf::MidiEventList
+MidiEventList	src/MidiEventList.cpp	/^MidiEventList::MidiEventList(void) {$/;"	f	class:smf::MidiEventList
+MidiEventList	src/MidiEventList.h	/^class MidiEventList {$/;"	c	namespace:smf
+MidiFile	src/MidiFile.cpp	/^MidiFile::MidiFile(MidiFile&& other) {$/;"	f	class:smf::MidiFile
+MidiFile	src/MidiFile.cpp	/^MidiFile::MidiFile(const MidiFile& other) {$/;"	f	class:smf::MidiFile
+MidiFile	src/MidiFile.cpp	/^MidiFile::MidiFile(const std::string& filename) {$/;"	f	class:smf::MidiFile
+MidiFile	src/MidiFile.cpp	/^MidiFile::MidiFile(std::istream& input) {$/;"	f	class:smf::MidiFile
+MidiFile	src/MidiFile.cpp	/^MidiFile::MidiFile(void) {$/;"	f	class:smf::MidiFile
+MidiFile	src/MidiFile.h	/^class MidiFile {$/;"	c	namespace:smf
+MidiMessage	src/MidiMessage.cpp	/^MidiMessage::MidiMessage(const MidiMessage& message) : vector<uchar>() {$/;"	f	class:smf::MidiMessage
+MidiMessage	src/MidiMessage.cpp	/^MidiMessage::MidiMessage(const std::vector<char>& message) : vector<uchar>() {$/;"	f	class:smf::MidiMessage
+MidiMessage	src/MidiMessage.cpp	/^MidiMessage::MidiMessage(const std::vector<int>& message) : vector<uchar>() {$/;"	f	class:smf::MidiMessage
+MidiMessage	src/MidiMessage.cpp	/^MidiMessage::MidiMessage(const std::vector<uchar>& message) : vector<uchar>() {$/;"	f	class:smf::MidiMessage
+MidiMessage	src/MidiMessage.cpp	/^MidiMessage::MidiMessage(int command) : vector<uchar>(1, (uchar)command) {$/;"	f	class:smf::MidiMessage
+MidiMessage	src/MidiMessage.cpp	/^MidiMessage::MidiMessage(int command, int p1) : vector<uchar>(2) {$/;"	f	class:smf::MidiMessage
+MidiMessage	src/MidiMessage.cpp	/^MidiMessage::MidiMessage(int command, int p1, int p2) : vector<uchar>(3) {$/;"	f	class:smf::MidiMessage
+MidiMessage	src/MidiMessage.cpp	/^MidiMessage::MidiMessage(void) : vector<uchar>() {$/;"	f	class:smf::MidiMessage
+MidiMessage	src/MidiMessage.h	/^class MidiMessage : public std::vector<uchar> {$/;"	c	namespace:smf
+NSCameraUsageDescription	bin/tpt_helperDebug.app/Contents/Info.plist	/^	<key>NSCameraUsageDescription<\/key>$/;"	k
+NSCameraUsageDescription	openFrameworks-Info.plist	/^	<key>NSCameraUsageDescription<\/key>$/;"	k
+NSMicrophoneUsageDescription	bin/tpt_helperDebug.app/Contents/Info.plist	/^	<key>NSMicrophoneUsageDescription<\/key>$/;"	k
+NSMicrophoneUsageDescription	openFrameworks-Info.plist	/^	<key>NSMicrophoneUsageDescription<\/key>$/;"	k
+SessionLoad	src/Session.vim	/^let SessionLoad = 1$/;"	v
+TIME_STATE_ABSOLUTE	src/MidiFile.h	/^#define TIME_STATE_ABSOLUTE /;"	d
+TIME_STATE_DELTA	src/MidiFile.h	/^#define TIME_STATE_DELTA /;"	d
+TRACK_STATE_JOINED	src/MidiFile.h	/^#define TRACK_STATE_JOINED /;"	d
+TRACK_STATE_SPLIT	src/MidiFile.h	/^#define TRACK_STATE_SPLIT /;"	d
+\\\x16	src/Session.vim	/^nnoremap \\  :nohlsearch$/;"	m
+\x16	src/Session.vim	/^nnoremap   za$/;"	m
+\x16\x10	src/Session.vim	/^nnoremap <silent>  :CtrlP$/;"	m
+_BINASC_H_INCLUDED	src/Binasc.h	/^#define _BINASC_H_INCLUDED$/;"	d
+_MIDIEVENTLIST_H_INCLUDED	src/MidiEventList.h	/^#define _MIDIEVENTLIST_H_INCLUDED$/;"	d
+_MIDIEVENT_H_INCLUDED	src/MidiEvent.h	/^#define _MIDIEVENT_H_INCLUDED$/;"	d
+_MIDIFILE_H_INCLUDED	src/MidiFile.h	/^#define _MIDIFILE_H_INCLUDED$/;"	d
+_MIDIMESSAGE_H_INCLUDED	src/MidiMessage.h	/^#define _MIDIMESSAGE_H_INCLUDED$/;"	d
+_TickTime	src/MidiFile.h	/^class _TickTime {$/;"	c	namespace:smf
+__anon00ee655d010a	src/Binasc.cpp	/^	union { char bytes[2]; ushort us; } data;$/;"	u	function:smf::Binasc::writeLittleEndianUShort	file:
+__anon00ee655d020a	src/Binasc.cpp	/^	union { char bytes[2]; ushort us; } data;$/;"	u	function:smf::Binasc::writeBigEndianUShort	file:
+__anon00ee655d030a	src/Binasc.cpp	/^	union { char bytes[2]; short s; } data;$/;"	u	function:smf::Binasc::writeLittleEndianShort	file:
+__anon00ee655d040a	src/Binasc.cpp	/^	union { char bytes[2]; short s; } data;$/;"	u	function:smf::Binasc::writeBigEndianShort	file:
+__anon00ee655d050a	src/Binasc.cpp	/^	union { char bytes[4]; ulong ul; } data;$/;"	u	function:smf::Binasc::writeLittleEndianULong	file:
+__anon00ee655d060a	src/Binasc.cpp	/^	union { char bytes[4]; long ul; } data;$/;"	u	function:smf::Binasc::writeBigEndianULong	file:
+__anon00ee655d070a	src/Binasc.cpp	/^	union { char bytes[4]; long l; } data;$/;"	u	function:smf::Binasc::writeLittleEndianLong	file:
+__anon00ee655d080a	src/Binasc.cpp	/^	union { char bytes[4]; long l; } data;$/;"	u	function:smf::Binasc::writeBigEndianLong	file:
+__anon00ee655d090a	src/Binasc.cpp	/^	union { char bytes[4]; float f; } data;$/;"	u	function:smf::Binasc::writeBigEndianFloat	file:
+__anon00ee655d0a0a	src/Binasc.cpp	/^	union { char bytes[4]; float f; } data;$/;"	u	function:smf::Binasc::writeLittleEndianFloat	file:
+__anon00ee655d0b0a	src/Binasc.cpp	/^	union { char bytes[8]; double d; } data;$/;"	u	function:smf::Binasc::writeBigEndianDouble	file:
+__anon00ee655d0c0a	src/Binasc.cpp	/^	union { char bytes[8]; double d; } data;$/;"	u	function:smf::Binasc::writeLittleEndianDouble	file:
+__anon62f6c0100102	src/MidiFile.cpp	/^		[&]()->MidiEventList* {$/;"	f	function:smf::MidiFile::operator =	typeref:typename:MidiEventList *	file:
+__anon62f6c010020a	src/MidiFile.cpp	/^	union { char bytes[2]; ushort us; } data;$/;"	u	function:smf::MidiFile::writeLittleEndianUShort	file:
+__anon62f6c010030a	src/MidiFile.cpp	/^	union { char bytes[2]; ushort us; } data;$/;"	u	function:smf::MidiFile::writeBigEndianUShort	file:
+__anon62f6c010040a	src/MidiFile.cpp	/^	union { char bytes[2]; short s; } data;$/;"	u	function:smf::MidiFile::writeLittleEndianShort	file:
+__anon62f6c010050a	src/MidiFile.cpp	/^	union { char bytes[2]; short s; } data;$/;"	u	function:smf::MidiFile::writeBigEndianShort	file:
+__anon62f6c010060a	src/MidiFile.cpp	/^	union { char bytes[4]; ulong ul; } data;$/;"	u	function:smf::MidiFile::writeLittleEndianULong	file:
+__anon62f6c010070a	src/MidiFile.cpp	/^	union { char bytes[4]; long ul; } data;$/;"	u	function:smf::MidiFile::writeBigEndianULong	file:
+__anon62f6c010080a	src/MidiFile.cpp	/^	union { char bytes[4]; long l; } data;$/;"	u	function:smf::MidiFile::writeLittleEndianLong	file:
+__anon62f6c010090a	src/MidiFile.cpp	/^	union { char bytes[4]; long l; } data;$/;"	u	function:smf::MidiFile::writeBigEndianLong	file:
+__anon62f6c0100a0a	src/MidiFile.cpp	/^	union { char bytes[4]; float f; } data;$/;"	u	function:smf::MidiFile::writeBigEndianFloat	file:
+__anon62f6c0100b0a	src/MidiFile.cpp	/^	union { char bytes[4]; float f; } data;$/;"	u	function:smf::MidiFile::writeLittleEndianFloat	file:
+__anon62f6c0100c0a	src/MidiFile.cpp	/^	union { char bytes[8]; double d; } data;$/;"	u	function:smf::MidiFile::writeBigEndianDouble	file:
+__anon62f6c0100d0a	src/MidiFile.cpp	/^	union { char bytes[8]; double d; } data;$/;"	u	function:smf::MidiFile::writeLittleEndianDouble	file:
+__anonf0e6c26e0102	src/MidiEventList.cpp	/^	std::generate_n(std::back_inserter(list), other.list.size(), [&]() -> MidiEvent* {$/;"	f	function:smf::MidiEventList::MidiEventList	typeref:typename:MidiEvent *	file:
+absoluteTicks	src/MidiFile.cpp	/^void MidiFile::absoluteTicks(void) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+addCompoundTimeSignature	src/MidiFile.cpp	/^MidiEvent* MidiFile::addCompoundTimeSignature(int aTrack, int aTick, int top,$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addController	src/MidiFile.cpp	/^MidiEvent* MidiFile::addController(int aTrack, int aTick, int aChannel,$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addCopyright	src/MidiFile.cpp	/^MidiEvent* MidiFile::addCopyright(int aTrack, int aTick, const std::string& text) {$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addCue	src/MidiFile.cpp	/^MidiEvent* MidiFile::addCue(int aTrack, int aTick, const std::string& text) {$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addEvent	src/MidiFile.cpp	/^MidiEvent* MidiFile::addEvent(MidiEvent& mfevent) {$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addEvent	src/MidiFile.cpp	/^MidiEvent* MidiFile::addEvent(int aTrack, MidiEvent& mfevent) {$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addEvent	src/MidiFile.cpp	/^MidiEvent* MidiFile::addEvent(int aTrack, int aTick,$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addInstrumentName	src/MidiFile.cpp	/^MidiEvent* MidiFile::addInstrumentName(int aTrack, int aTick,$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addLyric	src/MidiFile.cpp	/^MidiEvent* MidiFile::addLyric(int aTrack, int aTick, const std::string& text) {$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addMarker	src/MidiFile.cpp	/^MidiEvent* MidiFile::addMarker(int aTrack, int aTick, const std::string& text) {$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addMetaEvent	src/MidiFile.cpp	/^MidiEvent* MidiFile::addMetaEvent(int aTrack, int aTick, int aType,$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addNoteOff	src/MidiFile.cpp	/^MidiEvent* MidiFile::addNoteOff(int aTrack, int aTick, int aChannel, int key) {$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addNoteOff	src/MidiFile.cpp	/^MidiEvent* MidiFile::addNoteOff(int aTrack, int aTick, int aChannel, int key,$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addNoteOn	src/MidiFile.cpp	/^MidiEvent* MidiFile::addNoteOn(int aTrack, int aTick, int aChannel, int key, int vel) {$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addPatchChange	src/MidiFile.cpp	/^MidiEvent* MidiFile::addPatchChange(int aTrack, int aTick, int aChannel,$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addPitchBend	src/MidiFile.cpp	/^MidiEvent* MidiFile::addPitchBend(int aTrack, int aTick, int aChannel, double amount) {$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addSustain	src/MidiFile.cpp	/^MidiEvent* MidiFile::addSustain(int aTrack, int aTick, int aChannel, int value) {$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addSustainOff	src/MidiFile.cpp	/^MidiEvent* MidiFile::addSustainOff(int aTrack, int aTick, int aChannel) {$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addSustainOn	src/MidiFile.cpp	/^MidiEvent* MidiFile::addSustainOn(int aTrack, int aTick, int aChannel) {$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addSustainPedal	src/MidiFile.cpp	/^MidiEvent* MidiFile::addSustainPedal(int aTrack, int aTick, int aChannel, int value) {$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addSustainPedalOff	src/MidiFile.cpp	/^MidiEvent* MidiFile::addSustainPedalOff(int aTrack, int aTick, int aChannel) {$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addSustainPedalOn	src/MidiFile.cpp	/^MidiEvent* MidiFile::addSustainPedalOn(int aTrack, int aTick, int aChannel) {$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addTempo	src/MidiFile.cpp	/^MidiEvent* MidiFile::addTempo(int aTrack, int aTick, double aTempo) {$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addText	src/MidiFile.cpp	/^MidiEvent* MidiFile::addText(int aTrack, int aTick, const std::string& text) {$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addTimbre	src/MidiFile.cpp	/^MidiEvent* MidiFile::addTimbre(int aTrack, int aTick, int aChannel, int patchnum) {$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addTimeSignature	src/MidiFile.cpp	/^MidiEvent* MidiFile::addTimeSignature(int aTrack, int aTick, int top, int bottom,$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addTrack	src/MidiFile.cpp	/^int MidiFile::addTrack(int count) {$/;"	f	class:smf::MidiFile	typeref:typename:int
+addTrack	src/MidiFile.cpp	/^int MidiFile::addTrack(void) {$/;"	f	class:smf::MidiFile	typeref:typename:int
+addTrackName	src/MidiFile.cpp	/^MidiEvent* MidiFile::addTrackName(int aTrack, int aTick, const std::string& name) {$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent *
+addTracks	src/MidiFile.cpp	/^int MidiFile::addTracks(int count) {$/;"	f	class:smf::MidiFile	typeref:typename:int
+all	Makefile	/^all:$/;"	t
+allocateEvents	src/MidiFile.cpp	/^void MidiFile::allocateEvents(int track, int aSize) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+append	src/MidiEventList.cpp	/^int MidiEventList::append(MidiEvent& event) {$/;"	f	class:smf::MidiEventList	typeref:typename:int
+back	src/MidiEventList.cpp	/^MidiEvent& MidiEventList::back(void) {$/;"	f	class:smf::MidiEventList	typeref:typename:MidiEvent &
+back	src/MidiEventList.cpp	/^const MidiEvent& MidiEventList::back(void) const {$/;"	f	class:smf::MidiEventList	typeref:typename:const MidiEvent &
+buildTimeMap	src/MidiFile.cpp	/^void MidiFile::buildTimeMap(void) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+bytes	src/Binasc.cpp	/^	union { char bytes[2]; short s; } data;$/;"	m	union:smf::Binasc::writeBigEndianShort::__anon00ee655d040a	typeref:typename:char[2]	file:
+bytes	src/Binasc.cpp	/^	union { char bytes[2]; short s; } data;$/;"	m	union:smf::Binasc::writeLittleEndianShort::__anon00ee655d030a	typeref:typename:char[2]	file:
+bytes	src/Binasc.cpp	/^	union { char bytes[2]; ushort us; } data;$/;"	m	union:smf::Binasc::writeBigEndianUShort::__anon00ee655d020a	typeref:typename:char[2]	file:
+bytes	src/Binasc.cpp	/^	union { char bytes[2]; ushort us; } data;$/;"	m	union:smf::Binasc::writeLittleEndianUShort::__anon00ee655d010a	typeref:typename:char[2]	file:
+bytes	src/Binasc.cpp	/^	union { char bytes[4]; float f; } data;$/;"	m	union:smf::Binasc::writeBigEndianFloat::__anon00ee655d090a	typeref:typename:char[4]	file:
+bytes	src/Binasc.cpp	/^	union { char bytes[4]; float f; } data;$/;"	m	union:smf::Binasc::writeLittleEndianFloat::__anon00ee655d0a0a	typeref:typename:char[4]	file:
+bytes	src/Binasc.cpp	/^	union { char bytes[4]; long l; } data;$/;"	m	union:smf::Binasc::writeBigEndianLong::__anon00ee655d080a	typeref:typename:char[4]	file:
+bytes	src/Binasc.cpp	/^	union { char bytes[4]; long l; } data;$/;"	m	union:smf::Binasc::writeLittleEndianLong::__anon00ee655d070a	typeref:typename:char[4]	file:
+bytes	src/Binasc.cpp	/^	union { char bytes[4]; long ul; } data;$/;"	m	union:smf::Binasc::writeBigEndianULong::__anon00ee655d060a	typeref:typename:char[4]	file:
+bytes	src/Binasc.cpp	/^	union { char bytes[4]; ulong ul; } data;$/;"	m	union:smf::Binasc::writeLittleEndianULong::__anon00ee655d050a	typeref:typename:char[4]	file:
+bytes	src/Binasc.cpp	/^	union { char bytes[8]; double d; } data;$/;"	m	union:smf::Binasc::writeBigEndianDouble::__anon00ee655d0b0a	typeref:typename:char[8]	file:
+bytes	src/Binasc.cpp	/^	union { char bytes[8]; double d; } data;$/;"	m	union:smf::Binasc::writeLittleEndianDouble::__anon00ee655d0c0a	typeref:typename:char[8]	file:
+bytes	src/MidiFile.cpp	/^	union { char bytes[2]; short s; } data;$/;"	m	union:smf::MidiFile::writeBigEndianShort::__anon62f6c010050a	typeref:typename:char[2]	file:
+bytes	src/MidiFile.cpp	/^	union { char bytes[2]; short s; } data;$/;"	m	union:smf::MidiFile::writeLittleEndianShort::__anon62f6c010040a	typeref:typename:char[2]	file:
+bytes	src/MidiFile.cpp	/^	union { char bytes[2]; ushort us; } data;$/;"	m	union:smf::MidiFile::writeBigEndianUShort::__anon62f6c010030a	typeref:typename:char[2]	file:
+bytes	src/MidiFile.cpp	/^	union { char bytes[2]; ushort us; } data;$/;"	m	union:smf::MidiFile::writeLittleEndianUShort::__anon62f6c010020a	typeref:typename:char[2]	file:
+bytes	src/MidiFile.cpp	/^	union { char bytes[4]; float f; } data;$/;"	m	union:smf::MidiFile::writeBigEndianFloat::__anon62f6c0100a0a	typeref:typename:char[4]	file:
+bytes	src/MidiFile.cpp	/^	union { char bytes[4]; float f; } data;$/;"	m	union:smf::MidiFile::writeLittleEndianFloat::__anon62f6c0100b0a	typeref:typename:char[4]	file:
+bytes	src/MidiFile.cpp	/^	union { char bytes[4]; long l; } data;$/;"	m	union:smf::MidiFile::writeBigEndianLong::__anon62f6c010090a	typeref:typename:char[4]	file:
+bytes	src/MidiFile.cpp	/^	union { char bytes[4]; long l; } data;$/;"	m	union:smf::MidiFile::writeLittleEndianLong::__anon62f6c010080a	typeref:typename:char[4]	file:
+bytes	src/MidiFile.cpp	/^	union { char bytes[4]; long ul; } data;$/;"	m	union:smf::MidiFile::writeBigEndianULong::__anon62f6c010070a	typeref:typename:char[4]	file:
+bytes	src/MidiFile.cpp	/^	union { char bytes[4]; ulong ul; } data;$/;"	m	union:smf::MidiFile::writeLittleEndianULong::__anon62f6c010060a	typeref:typename:char[4]	file:
+bytes	src/MidiFile.cpp	/^	union { char bytes[8]; double d; } data;$/;"	m	union:smf::MidiFile::writeBigEndianDouble::__anon62f6c0100c0a	typeref:typename:char[8]	file:
+bytes	src/MidiFile.cpp	/^	union { char bytes[8]; double d; } data;$/;"	m	union:smf::MidiFile::writeLittleEndianDouble::__anon62f6c0100d0a	typeref:typename:char[8]	file:
+clear	src/MidiEventList.cpp	/^void MidiEventList::clear(void) {$/;"	f	class:smf::MidiEventList	typeref:typename:void
+clear	src/MidiFile.cpp	/^void MidiFile::clear(void) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+clearLinks	src/MidiEventList.cpp	/^void MidiEventList::clearLinks(void) {$/;"	f	class:smf::MidiEventList	typeref:typename:void
+clearLinks	src/MidiFile.cpp	/^void MidiFile::clearLinks(void) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+clearSequence	src/MidiEventList.cpp	/^void MidiEventList::clearSequence(void) {$/;"	f	class:smf::MidiEventList	typeref:typename:void
+clearSequence	src/MidiFile.cpp	/^void MidiFile::clearSequence(int track) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+clearSequence	src/MidiFile.cpp	/^void MidiFile::clearSequence(void) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+clearVariables	src/MidiEvent.cpp	/^void MidiEvent::clearVariables(void) {$/;"	f	class:smf::MidiEvent	typeref:typename:void
+clear_no_deallocate	src/MidiFile.cpp	/^void MidiFile::clear_no_deallocate(void) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+d	src/Binasc.cpp	/^	union { char bytes[8]; double d; } data;$/;"	m	union:smf::Binasc::writeBigEndianDouble::__anon00ee655d0b0a	typeref:typename:double	file:
+d	src/Binasc.cpp	/^	union { char bytes[8]; double d; } data;$/;"	m	union:smf::Binasc::writeLittleEndianDouble::__anon00ee655d0c0a	typeref:typename:double	file:
+d	src/MidiFile.cpp	/^	union { char bytes[8]; double d; } data;$/;"	m	union:smf::MidiFile::writeBigEndianDouble::__anon62f6c0100c0a	typeref:typename:double	file:
+d	src/MidiFile.cpp	/^	union { char bytes[8]; double d; } data;$/;"	m	union:smf::MidiFile::writeLittleEndianDouble::__anon62f6c0100d0a	typeref:typename:double	file:
+data	src/MidiEventList.cpp	/^MidiEvent** MidiEventList::data(void) {$/;"	f	class:smf::MidiEventList	typeref:typename:MidiEvent **
+deleteTrack	src/MidiFile.cpp	/^void MidiFile::deleteTrack(int aTrack) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+deltaTicks	src/MidiFile.cpp	/^void MidiFile::deltaTicks(void) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+detach	src/MidiEventList.cpp	/^void MidiEventList::detach(void) {$/;"	f	class:smf::MidiEventList	typeref:typename:void
+doTimeAnalysis	src/MidiFile.cpp	/^void MidiFile::doTimeAnalysis(void) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+dragEvent	src/tpt_helper.cpp	/^void tpt_helper::dragEvent(ofDragInfo dragInfo){ $/;"	f	class:tpt_helper	typeref:typename:void
+draw	src/tpt_helper.cpp	/^void tpt_helper::draw(){$/;"	f	class:tpt_helper	typeref:typename:void
+erase	src/MidiFile.cpp	/^void MidiFile::erase(void) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+eventcompare	src/MidiEventList.cpp	/^int eventcompare(const void* a, const void* b) {$/;"	f	namespace:smf	typeref:typename:int
+extractMidiData	src/MidiFile.cpp	/^int MidiFile::extractMidiData(std::istream& input, std::vector<uchar>& array,$/;"	f	class:smf::MidiFile	typeref:typename:int
+f	src/Binasc.cpp	/^	union { char bytes[4]; float f; } data;$/;"	m	union:smf::Binasc::writeBigEndianFloat::__anon00ee655d090a	typeref:typename:float	file:
+f	src/Binasc.cpp	/^	union { char bytes[4]; float f; } data;$/;"	m	union:smf::Binasc::writeLittleEndianFloat::__anon00ee655d0a0a	typeref:typename:float	file:
+f	src/MidiFile.cpp	/^	union { char bytes[4]; float f; } data;$/;"	m	union:smf::MidiFile::writeBigEndianFloat::__anon62f6c0100a0a	typeref:typename:float	file:
+f	src/MidiFile.cpp	/^	union { char bytes[4]; float f; } data;$/;"	m	union:smf::MidiFile::writeLittleEndianFloat::__anon62f6c0100b0a	typeref:typename:float	file:
+gV	src/Session.vim	/^nnoremap gV `[v`]$/;"	m
+getAbsoluteTickTime	src/MidiFile.cpp	/^double MidiFile::getAbsoluteTickTime(double starttime) {$/;"	f	class:smf::MidiFile	typeref:typename:double
+getBytes	src/Binasc.cpp	/^int Binasc::getBytes(void) {$/;"	f	class:smf::Binasc	typeref:typename:int
+getChannel	src/MidiMessage.cpp	/^int MidiMessage::getChannel(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:int
+getChannelNibble	src/MidiMessage.cpp	/^int MidiMessage::getChannelNibble(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:int
+getCommandByte	src/MidiMessage.cpp	/^int MidiMessage::getCommandByte(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:int
+getCommandNibble	src/MidiMessage.cpp	/^int MidiMessage::getCommandNibble(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:int
+getComments	src/Binasc.cpp	/^int Binasc::getComments(void) {$/;"	f	class:smf::Binasc	typeref:typename:int
+getControllerNumber	src/MidiMessage.cpp	/^int MidiMessage::getControllerNumber(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:int
+getControllerValue	src/MidiMessage.cpp	/^int MidiMessage::getControllerValue(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:int
+getDurationInSeconds	src/MidiEvent.cpp	/^double MidiEvent::getDurationInSeconds(void) const {$/;"	f	class:smf::MidiEvent	typeref:typename:double
+getEvent	src/MidiEventList.cpp	/^MidiEvent& MidiEventList::getEvent(int index) {$/;"	f	class:smf::MidiEventList	typeref:typename:MidiEvent &
+getEvent	src/MidiEventList.cpp	/^const MidiEvent& MidiEventList::getEvent(int index) const {$/;"	f	class:smf::MidiEventList	typeref:typename:const MidiEvent &
+getEvent	src/MidiFile.cpp	/^MidiEvent& MidiFile::getEvent(int aTrack, int anIndex) {$/;"	f	class:smf::MidiFile	typeref:typename:MidiEvent &
+getEvent	src/MidiFile.cpp	/^const MidiEvent& MidiFile::getEvent(int aTrack, int anIndex) const {$/;"	f	class:smf::MidiFile	typeref:typename:const MidiEvent &
+getEventCount	src/MidiEventList.cpp	/^int MidiEventList::getEventCount(void) const {$/;"	f	class:smf::MidiEventList	typeref:typename:int
+getEventCount	src/MidiFile.cpp	/^int MidiFile::getEventCount(int aTrack) const {$/;"	f	class:smf::MidiFile	typeref:typename:int
+getFileDurationInQuarters	src/MidiFile.cpp	/^double MidiFile::getFileDurationInQuarters(void) {$/;"	f	class:smf::MidiFile	typeref:typename:double
+getFileDurationInSeconds	src/MidiFile.cpp	/^double MidiFile::getFileDurationInSeconds(void) {$/;"	f	class:smf::MidiFile	typeref:typename:double
+getFileDurationInTicks	src/MidiFile.cpp	/^int MidiFile::getFileDurationInTicks(void) {$/;"	f	class:smf::MidiFile	typeref:typename:int
+getFilename	src/MidiFile.cpp	/^const char* MidiFile::getFilename(void) const {$/;"	f	class:smf::MidiFile	typeref:typename:const char *
+getKeyNumber	src/MidiMessage.cpp	/^int MidiMessage::getKeyNumber(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:int
+getLineBytes	src/Binasc.cpp	/^int Binasc::getLineBytes(void) {$/;"	f	class:smf::Binasc	typeref:typename:int
+getLineLength	src/Binasc.cpp	/^int Binasc::getLineLength(void) {$/;"	f	class:smf::Binasc	typeref:typename:int
+getLinkedEvent	src/MidiEvent.cpp	/^MidiEvent* MidiEvent::getLinkedEvent(void) {$/;"	f	class:smf::MidiEvent	typeref:typename:MidiEvent *
+getLinkedEvent	src/MidiEvent.cpp	/^const MidiEvent* MidiEvent::getLinkedEvent(void) const {$/;"	f	class:smf::MidiEvent	typeref:typename:const MidiEvent *
+getMetaContent	src/MidiMessage.cpp	/^std::string MidiMessage::getMetaContent(void) {$/;"	f	class:smf::MidiMessage	typeref:typename:std::string
+getMetaType	src/MidiMessage.cpp	/^int MidiMessage::getMetaType(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:int
+getMidi	src/Binasc.cpp	/^int Binasc::getMidi(void) {$/;"	f	class:smf::Binasc	typeref:typename:int
+getNumEvents	src/MidiFile.cpp	/^int MidiFile::getNumEvents(int aTrack) const {$/;"	f	class:smf::MidiFile	typeref:typename:int
+getNumTracks	src/MidiFile.cpp	/^int MidiFile::getNumTracks(void) const {$/;"	f	class:smf::MidiFile	typeref:typename:int
+getP0	src/MidiMessage.cpp	/^int MidiMessage::getP0(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:int
+getP1	src/MidiMessage.cpp	/^int MidiMessage::getP1(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:int
+getP2	src/MidiMessage.cpp	/^int MidiMessage::getP2(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:int
+getP3	src/MidiMessage.cpp	/^int MidiMessage::getP3(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:int
+getSize	src/MidiEventList.cpp	/^int MidiEventList::getSize(void) const {$/;"	f	class:smf::MidiEventList	typeref:typename:int
+getSize	src/MidiMessage.cpp	/^int MidiMessage::getSize(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:int
+getSpelling	src/MidiMessage.cpp	/^void MidiMessage::getSpelling(int& base7, int& accidental) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+getSplitTrack	src/MidiFile.cpp	/^int MidiFile::getSplitTrack(int index) const {$/;"	f	class:smf::MidiFile	typeref:typename:int
+getSplitTrack	src/MidiFile.cpp	/^int MidiFile::getSplitTrack(int track, int index) const {$/;"	f	class:smf::MidiFile	typeref:typename:int
+getTPQ	src/MidiFile.cpp	/^int MidiFile::getTPQ(void) const {$/;"	f	class:smf::MidiFile	typeref:typename:int
+getTempoBPM	src/MidiMessage.cpp	/^double MidiMessage::getTempoBPM(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:double
+getTempoMicro	src/MidiMessage.cpp	/^int MidiMessage::getTempoMicro(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:int
+getTempoMicroseconds	src/MidiMessage.cpp	/^int MidiMessage::getTempoMicroseconds(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:int
+getTempoSPT	src/MidiMessage.cpp	/^double MidiMessage::getTempoSPT(int tpq) const {$/;"	f	class:smf::MidiMessage	typeref:typename:double
+getTempoSeconds	src/MidiMessage.cpp	/^double MidiMessage::getTempoSeconds(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:double
+getTempoTPS	src/MidiMessage.cpp	/^double MidiMessage::getTempoTPS(int tpq) const {$/;"	f	class:smf::MidiMessage	typeref:typename:double
+getTickDuration	src/MidiEvent.cpp	/^int MidiEvent::getTickDuration(void) const {$/;"	f	class:smf::MidiEvent	typeref:typename:int
+getTickState	src/MidiFile.cpp	/^int MidiFile::getTickState(void) const {$/;"	f	class:smf::MidiFile	typeref:typename:int
+getTicksPerQuarterNote	src/MidiFile.cpp	/^int MidiFile::getTicksPerQuarterNote(void) const {$/;"	f	class:smf::MidiFile	typeref:typename:int
+getTimeInSeconds	src/MidiFile.cpp	/^double MidiFile::getTimeInSeconds(int aTrack, int anIndex) {$/;"	f	class:smf::MidiFile	typeref:typename:double
+getTimeInSeconds	src/MidiFile.cpp	/^double MidiFile::getTimeInSeconds(int tickvalue) {$/;"	f	class:smf::MidiFile	typeref:typename:double
+getTrackCount	src/MidiFile.cpp	/^int MidiFile::getTrackCount(void) const {$/;"	f	class:smf::MidiFile	typeref:typename:int
+getTrackCountAsType1	src/MidiFile.cpp	/^int MidiFile::getTrackCountAsType1(void) {$/;"	f	class:smf::MidiFile	typeref:typename:int
+getTrackState	src/MidiFile.cpp	/^int MidiFile::getTrackState(void) const {$/;"	f	class:smf::MidiFile	typeref:typename:int
+getVLV	src/Binasc.cpp	/^int Binasc::getVLV(std::istream& infile, int& trackbytes) {$/;"	f	class:smf::Binasc	typeref:typename:int
+getVelocity	src/MidiMessage.cpp	/^int MidiMessage::getVelocity(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:int
+getWord	src/Binasc.cpp	/^int Binasc::getWord(std::string& word, const std::string& input,$/;"	f	class:smf::Binasc	typeref:typename:int
+gotMessage	src/tpt_helper.cpp	/^void tpt_helper::gotMessage(ofMessage msg){$/;"	f	class:tpt_helper	typeref:typename:void
+gx	src/Session.vim	/^nmap gx <Plug>NetrwBrowseX$/;"	m
+gx	src/Session.vim	/^vmap gx <Plug>NetrwBrowseXVis$/;"	m
+hasJoinedTracks	src/MidiFile.cpp	/^int MidiFile::hasJoinedTracks(void) const {$/;"	f	class:smf::MidiFile	typeref:typename:int
+hasSplitTracks	src/MidiFile.cpp	/^int MidiFile::hasSplitTracks(void) const {$/;"	f	class:smf::MidiFile	typeref:typename:int
+isAbsoluteTicks	src/MidiFile.cpp	/^bool MidiFile::isAbsoluteTicks(void) const {$/;"	f	class:smf::MidiFile	typeref:typename:bool
+isAftertouch	src/MidiMessage.cpp	/^bool MidiMessage::isAftertouch(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isController	src/MidiMessage.cpp	/^bool MidiMessage::isController(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isCopyright	src/MidiMessage.cpp	/^bool MidiMessage::isCopyright(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isDeltaTicks	src/MidiFile.cpp	/^bool MidiFile::isDeltaTicks(void) const {$/;"	f	class:smf::MidiFile	typeref:typename:bool
+isEmpty	src/MidiMessage.cpp	/^bool MidiMessage::isEmpty(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isEndOfTrack	src/MidiMessage.cpp	/^bool MidiMessage::isEndOfTrack(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isInstrumentName	src/MidiMessage.cpp	/^bool MidiMessage::isInstrumentName(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isKeySignature	src/MidiMessage.cpp	/^bool MidiMessage::isKeySignature(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isLinked	src/MidiEvent.cpp	/^int MidiEvent::isLinked(void) const {$/;"	f	class:smf::MidiEvent	typeref:typename:int
+isLyricText	src/MidiMessage.cpp	/^bool MidiMessage::isLyricText(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isMarkerText	src/MidiMessage.cpp	/^bool MidiMessage::isMarkerText(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isMeta	src/MidiMessage.cpp	/^bool MidiMessage::isMeta(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isMetaMessage	src/MidiMessage.cpp	/^bool MidiMessage::isMetaMessage(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isNote	src/MidiMessage.cpp	/^bool MidiMessage::isNote(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isNoteOff	src/MidiMessage.cpp	/^bool MidiMessage::isNoteOff(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isNoteOn	src/MidiMessage.cpp	/^bool MidiMessage::isNoteOn(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isPatchChange	src/MidiMessage.cpp	/^bool MidiMessage::isPatchChange(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isPitchbend	src/MidiMessage.cpp	/^bool MidiMessage::isPitchbend(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isPressure	src/MidiMessage.cpp	/^bool MidiMessage::isPressure(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isSoft	src/MidiMessage.cpp	/^bool MidiMessage::isSoft(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isSoftOff	src/MidiMessage.cpp	/^bool MidiMessage::isSoftOff(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isSoftOn	src/MidiMessage.cpp	/^bool MidiMessage::isSoftOn(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isSustain	src/MidiMessage.cpp	/^bool MidiMessage::isSustain(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isSustainOff	src/MidiMessage.cpp	/^bool MidiMessage::isSustainOff(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isSustainOn	src/MidiMessage.cpp	/^bool MidiMessage::isSustainOn(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isTempo	src/MidiMessage.cpp	/^bool MidiMessage::isTempo(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isText	src/MidiMessage.cpp	/^bool MidiMessage::isText(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isTimbre	src/MidiMessage.cpp	/^bool MidiMessage::isTimbre(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isTimeSignature	src/MidiMessage.cpp	/^bool MidiMessage::isTimeSignature(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+isTrackName	src/MidiMessage.cpp	/^bool MidiMessage::isTrackName(void) const {$/;"	f	class:smf::MidiMessage	typeref:typename:bool
+j	src/Session.vim	/^nnoremap j gj$/;"	m
+jk	src/Session.vim	/^inoremap jk $/;"	m
+joinTracks	src/MidiFile.cpp	/^void MidiFile::joinTracks(void) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+k	src/Session.vim	/^nnoremap k gk$/;"	m
+keyPressed	src/tpt_helper.cpp	/^void tpt_helper::keyPressed(int key){$/;"	f	class:tpt_helper	typeref:typename:void
+keyReleased	src/tpt_helper.cpp	/^void tpt_helper::keyReleased(int key){$/;"	f	class:tpt_helper	typeref:typename:void
+keyToPitchName	src/Binasc.cpp	/^std::string Binasc::keyToPitchName(int key) {$/;"	f	class:smf::Binasc	typeref:typename:std::string
+l	src/Binasc.cpp	/^	union { char bytes[4]; long l; } data;$/;"	m	union:smf::Binasc::writeBigEndianLong::__anon00ee655d080a	typeref:typename:long	file:
+l	src/Binasc.cpp	/^	union { char bytes[4]; long l; } data;$/;"	m	union:smf::Binasc::writeLittleEndianLong::__anon00ee655d070a	typeref:typename:long	file:
+l	src/MidiFile.cpp	/^	union { char bytes[4]; long l; } data;$/;"	m	union:smf::MidiFile::writeBigEndianLong::__anon62f6c010090a	typeref:typename:long	file:
+l	src/MidiFile.cpp	/^	union { char bytes[4]; long l; } data;$/;"	m	union:smf::MidiFile::writeLittleEndianLong::__anon62f6c010080a	typeref:typename:long	file:
+last	src/MidiEventList.cpp	/^MidiEvent& MidiEventList::last(void) {$/;"	f	class:smf::MidiEventList	typeref:typename:MidiEvent &
+last	src/MidiEventList.cpp	/^const MidiEvent& MidiEventList::last(void) const {$/;"	f	class:smf::MidiEventList	typeref:typename:const MidiEvent &
+linearSecondInterpolationAtTick	src/MidiFile.cpp	/^double MidiFile::linearSecondInterpolationAtTick(int ticktime) {$/;"	f	class:smf::MidiFile	typeref:typename:double
+linearTickInterpolationAtSecond	src/MidiFile.cpp	/^double MidiFile::linearTickInterpolationAtSecond(double seconds) {$/;"	f	class:smf::MidiFile	typeref:typename:double
+linkEvent	src/MidiEvent.cpp	/^void MidiEvent::linkEvent(MidiEvent& mev) {$/;"	f	class:smf::MidiEvent	typeref:typename:void
+linkEvent	src/MidiEvent.cpp	/^void MidiEvent::linkEvent(MidiEvent* mev) {$/;"	f	class:smf::MidiEvent	typeref:typename:void
+linkEventPairs	src/MidiEventList.cpp	/^int MidiEventList::linkEventPairs(void) {$/;"	f	class:smf::MidiEventList	typeref:typename:int
+linkEventPairs	src/MidiFile.cpp	/^int MidiFile::linkEventPairs(void) {$/;"	f	class:smf::MidiFile	typeref:typename:int
+linkNotePairs	src/MidiEventList.cpp	/^int MidiEventList::linkNotePairs(void) {$/;"	f	class:smf::MidiEventList	typeref:typename:int
+linkNotePairs	src/MidiFile.cpp	/^int MidiFile::linkNotePairs(void) {$/;"	f	class:smf::MidiFile	typeref:typename:int
+list	src/MidiEventList.h	/^		std::vector<MidiEvent*> list;$/;"	m	class:smf::MidiEventList	typeref:typename:std::vector<MidiEvent * >
+m_bytesQ	src/Binasc.h	/^		int m_bytesQ;       \/\/ option for printing hex bytes in ASCII output.$/;"	m	class:smf::Binasc	typeref:typename:int
+m_commentsQ	src/Binasc.h	/^		int m_commentsQ;    \/\/ option for printing comments in ASCII output.$/;"	m	class:smf::Binasc	typeref:typename:int
+m_eventlink	src/MidiEvent.h	/^		MidiEvent* m_eventlink;  \/\/ used to match note-ons and note-offs$/;"	m	class:smf::MidiEvent	typeref:typename:MidiEvent *
+m_events	src/MidiFile.h	/^		std::vector<MidiEventList*> m_events;$/;"	m	class:smf::MidiFile	typeref:typename:std::vector<MidiEventList * >
+m_linkedEventsQ	src/MidiFile.h	/^		bool m_linkedEventsQ = false;$/;"	m	class:smf::MidiFile	typeref:typename:bool
+m_maxLineBytes	src/Binasc.h	/^		int m_maxLineBytes; \/\/ number of hex bytes in ASCII output on a line.$/;"	m	class:smf::Binasc	typeref:typename:int
+m_maxLineLength	src/Binasc.h	/^		int m_maxLineLength;\/\/ number of character in ASCII output on a line.$/;"	m	class:smf::Binasc	typeref:typename:int
+m_midiQ	src/Binasc.h	/^		int m_midiQ;        \/\/ output ASCII data as parsed MIDI file.$/;"	m	class:smf::Binasc	typeref:typename:int
+m_readFileName	src/MidiFile.h	/^		std::string m_readFileName;$/;"	m	class:smf::MidiFile	typeref:typename:std::string
+m_rwstatus	src/MidiFile.h	/^		bool m_rwstatus = true;$/;"	m	class:smf::MidiFile	typeref:typename:bool
+m_theTimeState	src/MidiFile.h	/^		int m_theTimeState = TIME_STATE_ABSOLUTE;$/;"	m	class:smf::MidiFile	typeref:typename:int
+m_theTrackState	src/MidiFile.h	/^		int m_theTrackState = TRACK_STATE_SPLIT;$/;"	m	class:smf::MidiFile	typeref:typename:int
+m_ticksPerQuarterNote	src/MidiFile.h	/^		int m_ticksPerQuarterNote = 120;$/;"	m	class:smf::MidiFile	typeref:typename:int
+m_timemap	src/MidiFile.h	/^		std::vector<_TickTime> m_timemap;$/;"	m	class:smf::MidiFile	typeref:typename:std::vector<_TickTime>
+m_timemapvalid	src/MidiFile.h	/^		bool m_timemapvalid = false;$/;"	m	class:smf::MidiFile	typeref:typename:bool
+m_trackCount	src/MidiFile.h	/^		int m_trackCount = 1;$/;"	m	class:smf::MidiFile	typeref:typename:int
+main	src/main.cpp	/^int main( ){$/;"	f	typeref:typename:int
+makeAbsoluteTicks	src/MidiFile.cpp	/^void MidiFile::makeAbsoluteTicks(void) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+makeController	src/MidiMessage.cpp	/^void MidiMessage::makeController(int channel, int num, int value) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+makeCopyright	src/MidiMessage.cpp	/^void MidiMessage::makeCopyright(const std::string& text) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+makeCue	src/MidiMessage.cpp	/^void MidiMessage::makeCue(const std::string& text) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+makeDeltaTicks	src/MidiFile.cpp	/^void MidiFile::makeDeltaTicks(void) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+makeInstrumentName	src/MidiMessage.cpp	/^void MidiMessage::makeInstrumentName(const std::string& name) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+makeLyric	src/MidiMessage.cpp	/^void MidiMessage::makeLyric(const std::string& text) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+makeMarker	src/MidiMessage.cpp	/^void MidiMessage::makeMarker(const std::string& text) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+makeMetaMessage	src/MidiMessage.cpp	/^void MidiMessage::makeMetaMessage(int mnum, const std::string& data) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+makeNoteOff	src/MidiMessage.cpp	/^void MidiMessage::makeNoteOff(int channel, int key) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+makeNoteOff	src/MidiMessage.cpp	/^void MidiMessage::makeNoteOff(int channel, int key, int velocity) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+makeNoteOff	src/MidiMessage.cpp	/^void MidiMessage::makeNoteOff(void) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+makeNoteOn	src/MidiMessage.cpp	/^void MidiMessage::makeNoteOn(int channel, int key, int velocity) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+makePatchChange	src/MidiMessage.cpp	/^void MidiMessage::makePatchChange(int channel, int patchnum) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+makeSustain	src/MidiMessage.cpp	/^void MidiMessage::makeSustain(int channel, int value) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+makeSustainOff	src/MidiMessage.cpp	/^void MidiMessage::makeSustainOff(int channel) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+makeSustainOn	src/MidiMessage.cpp	/^void MidiMessage::makeSustainOn(int channel) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+makeSustainPedal	src/MidiMessage.cpp	/^void MidiMessage::makeSustainPedal(int channel, int value) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+makeSustainPedalOff	src/MidiMessage.cpp	/^void MidiMessage::makeSustainPedalOff(int channel) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+makeSustainPedalOn	src/MidiMessage.cpp	/^void MidiMessage::makeSustainPedalOn(int channel) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+makeTempo	src/MidiMessage.h	/^		void           makeTempo            (double tempo) { setTempo(tempo); }$/;"	f	class:smf::MidiMessage	typeref:typename:void
+makeText	src/MidiMessage.cpp	/^void MidiMessage::makeText(const std::string& text) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+makeTimbre	src/MidiMessage.cpp	/^void MidiMessage::makeTimbre(int channel, int patchnum) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+makeTimeSignature	src/MidiMessage.cpp	/^void MidiMessage::makeTimeSignature(int top, int bottom, int clocksPerClick,$/;"	f	class:smf::MidiMessage	typeref:typename:void
+makeTrackName	src/MidiMessage.cpp	/^void MidiMessage::makeTrackName(const std::string& name) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+makeVLV	src/MidiFile.cpp	/^int MidiFile::makeVLV(uchar *buffer, int number) {$/;"	f	class:smf::MidiFile	typeref:typename:int
+markSequence	src/MidiEventList.cpp	/^int MidiEventList::markSequence(int sequence) {$/;"	f	class:smf::MidiEventList	typeref:typename:int
+markSequence	src/MidiFile.cpp	/^void MidiFile::markSequence(int track, int sequence) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+markSequence	src/MidiFile.cpp	/^void MidiFile::markSequence(void) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+mergeTracks	src/MidiFile.cpp	/^void MidiFile::mergeTracks(int aTrack1, int aTrack2) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+midiFile	src/tpt_helper.h	/^        smf::MidiFile midiFile;$/;"	m	class:tpt_helper	typeref:typename:smf::MidiFile
+mouseDragged	src/tpt_helper.cpp	/^void tpt_helper::mouseDragged(int x, int y, int button){$/;"	f	class:tpt_helper	typeref:typename:void
+mouseEntered	src/tpt_helper.cpp	/^void tpt_helper::mouseEntered(int x, int y){$/;"	f	class:tpt_helper	typeref:typename:void
+mouseExited	src/tpt_helper.cpp	/^void tpt_helper::mouseExited(int x, int y){$/;"	f	class:tpt_helper	typeref:typename:void
+mouseMoved	src/tpt_helper.cpp	/^void tpt_helper::mouseMoved(int x, int y ){$/;"	f	class:tpt_helper	typeref:typename:void
+mousePressed	src/tpt_helper.cpp	/^void tpt_helper::mousePressed(int x, int y, int button){$/;"	f	class:tpt_helper	typeref:typename:void
+mouseReleased	src/tpt_helper.cpp	/^void tpt_helper::mouseReleased(int x, int y, int button){$/;"	f	class:tpt_helper	typeref:typename:void
+operator <<	src/MidiFile.cpp	/^std::ostream& operator<<(std::ostream& out, smf::MidiFile& aMidiFile) {$/;"	f	typeref:typename:std::ostream &
+operator =	src/MidiEvent.cpp	/^MidiEvent& MidiEvent::operator=(const MidiEvent& mfevent) {$/;"	f	class:smf::MidiEvent	typeref:typename:MidiEvent &
+operator =	src/MidiEvent.cpp	/^MidiEvent& MidiEvent::operator=(const MidiMessage& message) {$/;"	f	class:smf::MidiEvent	typeref:typename:MidiEvent &
+operator =	src/MidiEvent.cpp	/^MidiEvent& MidiEvent::operator=(const vector<char>& bytes) {$/;"	f	class:smf::MidiEvent	typeref:typename:MidiEvent &
+operator =	src/MidiEvent.cpp	/^MidiEvent& MidiEvent::operator=(const vector<int>& bytes) {$/;"	f	class:smf::MidiEvent	typeref:typename:MidiEvent &
+operator =	src/MidiEvent.cpp	/^MidiEvent& MidiEvent::operator=(const vector<uchar>& bytes) {$/;"	f	class:smf::MidiEvent	typeref:typename:MidiEvent &
+operator =	src/MidiEventList.cpp	/^MidiEventList& MidiEventList::operator=(MidiEventList& other) {$/;"	f	class:smf::MidiEventList	typeref:typename:MidiEventList &
+operator =	src/MidiFile.cpp	/^MidiFile& MidiFile::operator=(MidiFile&& other) {$/;"	f	class:smf::MidiFile	typeref:typename:MidiFile &
+operator =	src/MidiFile.cpp	/^MidiFile& MidiFile::operator=(const MidiFile& other) {$/;"	f	class:smf::MidiFile	typeref:typename:MidiFile &
+operator =	src/MidiMessage.cpp	/^MidiMessage& MidiMessage::operator=(const MidiMessage& message) {$/;"	f	class:smf::MidiMessage	typeref:typename:MidiMessage &
+operator =	src/MidiMessage.cpp	/^MidiMessage& MidiMessage::operator=(const std::vector<char>& bytes) {$/;"	f	class:smf::MidiMessage	typeref:typename:MidiMessage &
+operator =	src/MidiMessage.cpp	/^MidiMessage& MidiMessage::operator=(const std::vector<int>& bytes) {$/;"	f	class:smf::MidiMessage	typeref:typename:MidiMessage &
+operator =	src/MidiMessage.cpp	/^MidiMessage& MidiMessage::operator=(const std::vector<uchar>& bytes) {$/;"	f	class:smf::MidiMessage	typeref:typename:MidiMessage &
+operator []	src/MidiEventList.cpp	/^MidiEvent&  MidiEventList::operator[](int index) {$/;"	f	class:smf::MidiEventList	typeref:typename:MidiEvent &
+operator []	src/MidiEventList.cpp	/^const MidiEvent&  MidiEventList::operator[](int index) const {$/;"	f	class:smf::MidiEventList	typeref:typename:const MidiEvent &
+operator []	src/MidiFile.cpp	/^MidiEventList& MidiFile::operator[](int aTrack) {$/;"	f	class:smf::MidiFile	typeref:typename:MidiEventList &
+operator []	src/MidiFile.cpp	/^const MidiEventList& MidiFile::operator[](int aTrack) const {$/;"	f	class:smf::MidiFile	typeref:typename:const MidiEventList &
+outputStyleAscii	src/Binasc.cpp	/^int Binasc::outputStyleAscii(std::ostream& out, std::istream& input) {$/;"	f	class:smf::Binasc	typeref:typename:int
+outputStyleBinary	src/Binasc.cpp	/^int Binasc::outputStyleBinary(std::ostream& out, std::istream& input) {$/;"	f	class:smf::Binasc	typeref:typename:int
+outputStyleBoth	src/Binasc.cpp	/^int Binasc::outputStyleBoth(std::ostream& out, std::istream& input) {$/;"	f	class:smf::Binasc	typeref:typename:int
+outputStyleMidi	src/Binasc.cpp	/^int Binasc::outputStyleMidi(std::ostream& out, std::istream& input) {$/;"	f	class:smf::Binasc	typeref:typename:int
+processAsciiWord	src/Binasc.cpp	/^int Binasc::processAsciiWord(std::ostream& out, const std::string& word,$/;"	f	class:smf::Binasc	typeref:typename:int
+processBinaryWord	src/Binasc.cpp	/^int Binasc::processBinaryWord(std::ostream& out, const std::string& word,$/;"	f	class:smf::Binasc	typeref:typename:int
+processDecimalWord	src/Binasc.cpp	/^int Binasc::processDecimalWord(std::ostream& out, const std::string& word,$/;"	f	class:smf::Binasc	typeref:typename:int
+processHexWord	src/Binasc.cpp	/^int Binasc::processHexWord(std::ostream& out, const std::string& word,$/;"	f	class:smf::Binasc	typeref:typename:int
+processLine	src/Binasc.cpp	/^int Binasc::processLine(std::ostream& out, const std::string& input,$/;"	f	class:smf::Binasc	typeref:typename:int
+processMidiPitchBendWord	src/Binasc.cpp	/^int Binasc::processMidiPitchBendWord(std::ostream& out, const std::string& word,$/;"	f	class:smf::Binasc	typeref:typename:int
+processMidiTempoWord	src/Binasc.cpp	/^int Binasc::processMidiTempoWord(std::ostream& out, const std::string& word,$/;"	f	class:smf::Binasc	typeref:typename:int
+processStringWord	src/Binasc.cpp	/^int Binasc::processStringWord(std::ostream& out, const std::string& word,$/;"	f	class:smf::Binasc	typeref:typename:int
+processVlvWord	src/Binasc.cpp	/^int Binasc::processVlvWord(std::ostream& out, const std::string& word,$/;"	f	class:smf::Binasc	typeref:typename:int
+push	src/MidiEventList.cpp	/^int MidiEventList::push(MidiEvent& event) {$/;"	f	class:smf::MidiEventList	typeref:typename:int
+push_back	src/MidiEventList.cpp	/^int MidiEventList::push_back(MidiEvent& event) {$/;"	f	class:smf::MidiEventList	typeref:typename:int
+push_back_no_copy	src/MidiEventList.cpp	/^int MidiEventList::push_back_no_copy(MidiEvent* event) {$/;"	f	class:smf::MidiEventList	typeref:typename:int
+read	src/MidiFile.cpp	/^bool MidiFile::read(const std::string& filename) {$/;"	f	class:smf::MidiFile	typeref:typename:bool
+read	src/MidiFile.cpp	/^bool MidiFile::read(std::istream& input) {$/;"	f	class:smf::MidiFile	typeref:typename:bool
+readByte	src/MidiFile.cpp	/^uchar MidiFile::readByte(std::istream& input) {$/;"	f	class:smf::MidiFile	typeref:typename:uchar
+readFromBinary	src/Binasc.cpp	/^int Binasc::readFromBinary(const std::string& outfile, const std::string& infile) {$/;"	f	class:smf::Binasc	typeref:typename:int
+readFromBinary	src/Binasc.cpp	/^int Binasc::readFromBinary(const std::string& outfile, std::istream& input) {$/;"	f	class:smf::Binasc	typeref:typename:int
+readFromBinary	src/Binasc.cpp	/^int Binasc::readFromBinary(std::ostream& out, const std::string& infile) {$/;"	f	class:smf::Binasc	typeref:typename:int
+readFromBinary	src/Binasc.cpp	/^int Binasc::readFromBinary(std::ostream& out, std::istream& input) {$/;"	f	class:smf::Binasc	typeref:typename:int
+readLittleEndian2Bytes	src/MidiFile.cpp	/^ushort MidiFile::readLittleEndian2Bytes(std::istream& input) {$/;"	f	class:smf::MidiFile	typeref:typename:ushort
+readLittleEndian4Bytes	src/MidiFile.cpp	/^ulong MidiFile::readLittleEndian4Bytes(std::istream& input) {$/;"	f	class:smf::MidiFile	typeref:typename:ulong
+readMidiEvent	src/Binasc.cpp	/^int Binasc::readMidiEvent(std::ostream& out, std::istream& infile,$/;"	f	class:smf::Binasc	typeref:typename:int
+readVLValue	src/MidiFile.cpp	/^ulong MidiFile::readVLValue(std::istream& input) {$/;"	f	class:smf::MidiFile	typeref:typename:ulong
+removeEmpties	src/MidiEventList.cpp	/^void MidiEventList::removeEmpties(void) {$/;"	f	class:smf::MidiEventList	typeref:typename:void
+removeEmpties	src/MidiFile.cpp	/^void MidiFile::removeEmpties(void) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+reserve	src/MidiEventList.cpp	/^void MidiEventList::reserve(int rsize) {$/;"	f	class:smf::MidiEventList	typeref:typename:void
+resizeToCommand	src/MidiMessage.cpp	/^int MidiMessage::resizeToCommand(void) {$/;"	f	class:smf::MidiMessage	typeref:typename:int
+s	src/Binasc.cpp	/^	union { char bytes[2]; short s; } data;$/;"	m	union:smf::Binasc::writeBigEndianShort::__anon00ee655d040a	typeref:typename:short	file:
+s	src/Binasc.cpp	/^	union { char bytes[2]; short s; } data;$/;"	m	union:smf::Binasc::writeLittleEndianShort::__anon00ee655d030a	typeref:typename:short	file:
+s	src/MidiFile.cpp	/^	union { char bytes[2]; short s; } data;$/;"	m	union:smf::MidiFile::writeBigEndianShort::__anon62f6c010050a	typeref:typename:short	file:
+s	src/MidiFile.cpp	/^	union { char bytes[2]; short s; } data;$/;"	m	union:smf::MidiFile::writeLittleEndianShort::__anon62f6c010040a	typeref:typename:short	file:
+s:cpo_save	src/Session.vim	/^let s:cpo_save=&cpo$/;"	v
+s:l	src/Session.vim	/^let s:l = 2 - ((1 * winheight(0) + 21) \/ 43)$/;"	v
+s:so_save	src/Session.vim	/^let s:so_save = &g:so | let s:siso_save = &g:siso | setg so=0 siso=0 | setl so=-1 siso=-1$/;"	v
+s:sx	src/Session.vim	/^let s:sx = expand("<sfile>:p:r")."x.vim"$/;"	v
+s:wipebuf	src/Session.vim	/^  let s:wipebuf = bufnr('%')$/;"	v
+seconds	src/MidiEvent.h	/^		double     seconds;  \/\/ calculated time in sec. (after doTimeAnalysis())$/;"	m	class:smf::MidiEvent	typeref:typename:double
+seconds	src/MidiFile.h	/^		double seconds;$/;"	m	class:smf::_TickTime	typeref:typename:double
+secondsearch	src/MidiFile.cpp	/^int MidiFile::secondsearch(const void* A, const void* B) {$/;"	f	class:smf::MidiFile	typeref:typename:int
+seq	src/MidiEvent.h	/^		int        seq;      \/\/ sorting sequence number of event$/;"	m	class:smf::MidiEvent	typeref:typename:int
+setBytes	src/Binasc.cpp	/^void Binasc::setBytes(int state) {$/;"	f	class:smf::Binasc	typeref:typename:void
+setBytesOff	src/Binasc.cpp	/^void Binasc::setBytesOff(void) {$/;"	f	class:smf::Binasc	typeref:typename:void
+setBytesOn	src/Binasc.cpp	/^void Binasc::setBytesOn(void) {$/;"	f	class:smf::Binasc	typeref:typename:void
+setChannel	src/MidiMessage.cpp	/^void MidiMessage::setChannel(int value) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setChannelNibble	src/MidiMessage.cpp	/^void MidiMessage::setChannelNibble(int value) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setCommand	src/MidiMessage.cpp	/^void MidiMessage::setCommand(int value) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setCommand	src/MidiMessage.cpp	/^void MidiMessage::setCommand(int value, int p1) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setCommand	src/MidiMessage.cpp	/^void MidiMessage::setCommand(int value, int p1, int p2) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setCommandByte	src/MidiMessage.cpp	/^void MidiMessage::setCommandByte(int value) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setCommandNibble	src/MidiMessage.cpp	/^void MidiMessage::setCommandNibble(int value) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setComments	src/Binasc.cpp	/^void Binasc::setComments(int state) {$/;"	f	class:smf::Binasc	typeref:typename:void
+setCommentsOff	src/Binasc.cpp	/^void Binasc::setCommentsOff(void) {$/;"	f	class:smf::Binasc	typeref:typename:void
+setCommentsOn	src/Binasc.cpp	/^void Binasc::setCommentsOn(void) {$/;"	f	class:smf::Binasc	typeref:typename:void
+setFilename	src/MidiFile.cpp	/^void MidiFile::setFilename(const std::string& aname) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+setKeyNumber	src/MidiMessage.cpp	/^void MidiMessage::setKeyNumber(int value) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setLineBytes	src/Binasc.cpp	/^int Binasc::setLineBytes(int length) {$/;"	f	class:smf::Binasc	typeref:typename:int
+setLineLength	src/Binasc.cpp	/^int Binasc::setLineLength(int length) {$/;"	f	class:smf::Binasc	typeref:typename:int
+setMessage	src/MidiMessage.cpp	/^void MidiMessage::setMessage(const std::vector<char>& message) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setMessage	src/MidiMessage.cpp	/^void MidiMessage::setMessage(const std::vector<int>& message) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setMessage	src/MidiMessage.cpp	/^void MidiMessage::setMessage(const std::vector<uchar>& message) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setMetaContent	src/MidiMessage.cpp	/^void MidiMessage::setMetaContent(const std::string& content) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setMetaTempo	src/MidiMessage.cpp	/^void MidiMessage::setMetaTempo(double tempo) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setMidi	src/Binasc.cpp	/^void Binasc::setMidi(int state) {$/;"	f	class:smf::Binasc	typeref:typename:void
+setMidiOff	src/Binasc.cpp	/^void Binasc::setMidiOff(void) {$/;"	f	class:smf::Binasc	typeref:typename:void
+setMidiOn	src/Binasc.cpp	/^void Binasc::setMidiOn(void) {$/;"	f	class:smf::Binasc	typeref:typename:void
+setMillisecondTicks	src/MidiFile.cpp	/^void MidiFile::setMillisecondTicks(void) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+setP0	src/MidiMessage.cpp	/^void MidiMessage::setP0(int value) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setP1	src/MidiMessage.cpp	/^void MidiMessage::setP1(int value) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setP2	src/MidiMessage.cpp	/^void MidiMessage::setP2(int value) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setP3	src/MidiMessage.cpp	/^void MidiMessage::setP3(int value) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setParameters	src/MidiMessage.cpp	/^void MidiMessage::setParameters(int p1) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setParameters	src/MidiMessage.cpp	/^void MidiMessage::setParameters(int p1, int p2) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setPitchBendRange	src/MidiFile.cpp	/^void MidiFile::setPitchBendRange(int aTrack, int aTick, int aChannel, double range) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+setSize	src/MidiMessage.cpp	/^void MidiMessage::setSize(int asize) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setSizeToCommand	src/MidiMessage.cpp	/^int MidiMessage::setSizeToCommand(void) {$/;"	f	class:smf::MidiMessage	typeref:typename:int
+setSpelling	src/MidiMessage.cpp	/^void MidiMessage::setSpelling(int base7, int accidental) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setTPQ	src/MidiFile.cpp	/^void MidiFile::setTPQ(int ticks) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+setTempo	src/MidiMessage.cpp	/^void MidiMessage::setTempo(double tempo) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setTempoMicroseconds	src/MidiMessage.cpp	/^void MidiMessage::setTempoMicroseconds(int microseconds) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setTicksPerQuarterNote	src/MidiFile.cpp	/^void MidiFile::setTicksPerQuarterNote(int ticks) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+setVelocity	src/MidiMessage.cpp	/^void MidiMessage::setVelocity(int value) {$/;"	f	class:smf::MidiMessage	typeref:typename:void
+setup	src/tpt_helper.cpp	/^void tpt_helper::setup(){$/;"	f	class:tpt_helper	typeref:typename:void
+size	src/MidiEventList.cpp	/^int MidiEventList::size(void) const {$/;"	f	class:smf::MidiEventList	typeref:typename:int
+size	src/MidiFile.cpp	/^int MidiFile::size(void) const {$/;"	f	class:smf::MidiFile	typeref:typename:int
+smf	src/Binasc.cpp	/^namespace smf {$/;"	n	file:
+smf	src/Binasc.h	/^namespace smf {$/;"	n
+smf	src/MidiEvent.cpp	/^namespace smf {$/;"	n	file:
+smf	src/MidiEvent.h	/^namespace smf {$/;"	n
+smf	src/MidiEventList.cpp	/^namespace smf {$/;"	n	file:
+smf	src/MidiEventList.h	/^namespace smf {$/;"	n
+smf	src/MidiFile.cpp	/^namespace smf {$/;"	n	file:
+smf	src/MidiFile.h	/^namespace smf {$/;"	n
+smf	src/MidiMessage.cpp	/^namespace smf {$/;"	n	file:
+smf	src/MidiMessage.h	/^namespace smf {$/;"	n
+sort	src/MidiEventList.cpp	/^void MidiEventList::sort(void) {$/;"	f	class:smf::MidiEventList	typeref:typename:void
+sortTrack	src/MidiFile.cpp	/^void MidiFile::sortTrack(int track) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+sortTracks	src/MidiFile.cpp	/^void MidiFile::sortTracks(void) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+splitTracks	src/MidiFile.cpp	/^void MidiFile::splitTracks(void) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+splitTracksByChannel	src/MidiFile.cpp	/^void MidiFile::splitTracksByChannel(void) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+status	src/MidiFile.cpp	/^bool MidiFile::status(void) const {$/;"	f	class:smf::MidiFile	typeref:typename:bool
+tick	src/MidiEvent.h	/^		int        tick;     \/\/ delta or absolute MIDI ticks$/;"	m	class:smf::MidiEvent	typeref:typename:int
+tick	src/MidiFile.h	/^		int    tick;$/;"	m	class:smf::_TickTime	typeref:typename:int
+ticksearch	src/MidiFile.cpp	/^int MidiFile::ticksearch(const void* A, const void* B) {$/;"	f	class:smf::MidiFile	typeref:typename:int
+tpt_helper	src/tpt_helper.h	/^class tpt_helper : public ofBaseApp{$/;"	c
+track	src/MidiEvent.h	/^		int        track;    \/\/ [original] track number of event in MIDI file$/;"	m	class:smf::MidiEvent	typeref:typename:int
+uchar	src/Binasc.h	/^typedef unsigned char uchar;$/;"	t	namespace:smf	typeref:typename:unsigned char
+uchar	src/MidiMessage.h	/^typedef unsigned char  uchar;$/;"	t	namespace:smf	typeref:typename:unsigned char
+ul	src/Binasc.cpp	/^	union { char bytes[4]; long ul; } data;$/;"	m	union:smf::Binasc::writeBigEndianULong::__anon00ee655d060a	typeref:typename:long	file:
+ul	src/Binasc.cpp	/^	union { char bytes[4]; ulong ul; } data;$/;"	m	union:smf::Binasc::writeLittleEndianULong::__anon00ee655d050a	typeref:typename:ulong	file:
+ul	src/MidiFile.cpp	/^	union { char bytes[4]; long ul; } data;$/;"	m	union:smf::MidiFile::writeBigEndianULong::__anon62f6c010070a	typeref:typename:long	file:
+ul	src/MidiFile.cpp	/^	union { char bytes[4]; ulong ul; } data;$/;"	m	union:smf::MidiFile::writeLittleEndianULong::__anon62f6c010060a	typeref:typename:ulong	file:
+ulong	src/Binasc.h	/^typedef unsigned long ulong;$/;"	t	namespace:smf	typeref:typename:unsigned long
+ulong	src/MidiMessage.h	/^typedef unsigned long  ulong;$/;"	t	namespace:smf	typeref:typename:unsigned long
+unlinkEvent	src/MidiEvent.cpp	/^void MidiEvent::unlinkEvent(void) {$/;"	f	class:smf::MidiEvent	typeref:typename:void
+unpackVLV	src/MidiFile.cpp	/^ulong MidiFile::unpackVLV(uchar a, uchar b, uchar c, uchar d, uchar e) {$/;"	f	class:smf::MidiFile	typeref:typename:ulong
+update	src/tpt_helper.cpp	/^void tpt_helper::update(){$/;"	f	class:tpt_helper	typeref:typename:void
+us	src/Binasc.cpp	/^	union { char bytes[2]; ushort us; } data;$/;"	m	union:smf::Binasc::writeBigEndianUShort::__anon00ee655d020a	typeref:typename:ushort	file:
+us	src/Binasc.cpp	/^	union { char bytes[2]; ushort us; } data;$/;"	m	union:smf::Binasc::writeLittleEndianUShort::__anon00ee655d010a	typeref:typename:ushort	file:
+us	src/MidiFile.cpp	/^	union { char bytes[2]; ushort us; } data;$/;"	m	union:smf::MidiFile::writeBigEndianUShort::__anon62f6c010030a	typeref:typename:ushort	file:
+us	src/MidiFile.cpp	/^	union { char bytes[2]; ushort us; } data;$/;"	m	union:smf::MidiFile::writeLittleEndianUShort::__anon62f6c010020a	typeref:typename:ushort	file:
+ushort	src/Binasc.h	/^typedef unsigned short ushort;$/;"	t	namespace:smf	typeref:typename:unsigned short
+ushort	src/MidiMessage.h	/^typedef unsigned short ushort;$/;"	t	namespace:smf	typeref:typename:unsigned short
+windowResized	src/tpt_helper.cpp	/^void tpt_helper::windowResized(int w, int h){$/;"	f	class:tpt_helper	typeref:typename:void
+write	src/MidiFile.cpp	/^bool MidiFile::write(const std::string& filename) {$/;"	f	class:smf::MidiFile	typeref:typename:bool
+write	src/MidiFile.cpp	/^bool MidiFile::write(std::ostream& out) {$/;"	f	class:smf::MidiFile	typeref:typename:bool
+writeBigEndianDouble	src/Binasc.cpp	/^std::ostream& Binasc::writeBigEndianDouble(std::ostream& out, double value) {$/;"	f	class:smf::Binasc	typeref:typename:std::ostream &
+writeBigEndianDouble	src/MidiFile.cpp	/^std::ostream& MidiFile::writeBigEndianDouble(std::ostream& out, double value) {$/;"	f	class:smf::MidiFile	typeref:typename:std::ostream &
+writeBigEndianFloat	src/Binasc.cpp	/^std::ostream& Binasc::writeBigEndianFloat(std::ostream& out, float value) {$/;"	f	class:smf::Binasc	typeref:typename:std::ostream &
+writeBigEndianFloat	src/MidiFile.cpp	/^std::ostream& MidiFile::writeBigEndianFloat(std::ostream& out, float value) {$/;"	f	class:smf::MidiFile	typeref:typename:std::ostream &
+writeBigEndianLong	src/Binasc.cpp	/^std::ostream& Binasc::writeBigEndianLong(std::ostream& out, long value) {$/;"	f	class:smf::Binasc	typeref:typename:std::ostream &
+writeBigEndianLong	src/MidiFile.cpp	/^std::ostream& MidiFile::writeBigEndianLong(std::ostream& out, long value) {$/;"	f	class:smf::MidiFile	typeref:typename:std::ostream &
+writeBigEndianShort	src/Binasc.cpp	/^std::ostream& Binasc::writeBigEndianShort(std::ostream& out, short value) {$/;"	f	class:smf::Binasc	typeref:typename:std::ostream &
+writeBigEndianShort	src/MidiFile.cpp	/^std::ostream& MidiFile::writeBigEndianShort(std::ostream& out, short value) {$/;"	f	class:smf::MidiFile	typeref:typename:std::ostream &
+writeBigEndianULong	src/Binasc.cpp	/^std::ostream& Binasc::writeBigEndianULong(std::ostream& out, ulong value) {$/;"	f	class:smf::Binasc	typeref:typename:std::ostream &
+writeBigEndianULong	src/MidiFile.cpp	/^std::ostream& MidiFile::writeBigEndianULong(std::ostream& out, ulong value) {$/;"	f	class:smf::MidiFile	typeref:typename:std::ostream &
+writeBigEndianUShort	src/Binasc.cpp	/^std::ostream& Binasc::writeBigEndianUShort(std::ostream& out, ushort value) {$/;"	f	class:smf::Binasc	typeref:typename:std::ostream &
+writeBigEndianUShort	src/MidiFile.cpp	/^std::ostream& MidiFile::writeBigEndianUShort(std::ostream& out, ushort value) {$/;"	f	class:smf::MidiFile	typeref:typename:std::ostream &
+writeBinasc	src/MidiFile.cpp	/^bool MidiFile::writeBinasc(const std::string& filename) {$/;"	f	class:smf::MidiFile	typeref:typename:bool
+writeBinasc	src/MidiFile.cpp	/^bool MidiFile::writeBinasc(std::ostream& output) {$/;"	f	class:smf::MidiFile	typeref:typename:bool
+writeBinascWithComments	src/MidiFile.cpp	/^bool MidiFile::writeBinascWithComments(const std::string& filename) {$/;"	f	class:smf::MidiFile	typeref:typename:bool
+writeBinascWithComments	src/MidiFile.cpp	/^bool MidiFile::writeBinascWithComments(std::ostream& output) {$/;"	f	class:smf::MidiFile	typeref:typename:bool
+writeHex	src/MidiFile.cpp	/^bool MidiFile::writeHex(const std::string& filename, int width) {$/;"	f	class:smf::MidiFile	typeref:typename:bool
+writeHex	src/MidiFile.cpp	/^bool MidiFile::writeHex(std::ostream& out, int width) {$/;"	f	class:smf::MidiFile	typeref:typename:bool
+writeLittleEndianDouble	src/Binasc.cpp	/^std::ostream& Binasc::writeLittleEndianDouble(std::ostream& out, double value) {$/;"	f	class:smf::Binasc	typeref:typename:std::ostream &
+writeLittleEndianDouble	src/MidiFile.cpp	/^std::ostream& MidiFile::writeLittleEndianDouble(std::ostream& out, double value) {$/;"	f	class:smf::MidiFile	typeref:typename:std::ostream &
+writeLittleEndianFloat	src/Binasc.cpp	/^std::ostream& Binasc::writeLittleEndianFloat(std::ostream& out, float value) {$/;"	f	class:smf::Binasc	typeref:typename:std::ostream &
+writeLittleEndianFloat	src/MidiFile.cpp	/^std::ostream& MidiFile::writeLittleEndianFloat(std::ostream& out, float value) {$/;"	f	class:smf::MidiFile	typeref:typename:std::ostream &
+writeLittleEndianLong	src/Binasc.cpp	/^std::ostream& Binasc::writeLittleEndianLong(std::ostream& out, long value) {$/;"	f	class:smf::Binasc	typeref:typename:std::ostream &
+writeLittleEndianLong	src/MidiFile.cpp	/^std::ostream& MidiFile::writeLittleEndianLong(std::ostream& out, long value) {$/;"	f	class:smf::MidiFile	typeref:typename:std::ostream &
+writeLittleEndianShort	src/Binasc.cpp	/^std::ostream& Binasc::writeLittleEndianShort(std::ostream& out, short value) {$/;"	f	class:smf::Binasc	typeref:typename:std::ostream &
+writeLittleEndianShort	src/MidiFile.cpp	/^std::ostream& MidiFile::writeLittleEndianShort(std::ostream& out, short value) {$/;"	f	class:smf::MidiFile	typeref:typename:std::ostream &
+writeLittleEndianULong	src/Binasc.cpp	/^std::ostream& Binasc::writeLittleEndianULong(std::ostream& out, ulong value) {$/;"	f	class:smf::Binasc	typeref:typename:std::ostream &
+writeLittleEndianULong	src/MidiFile.cpp	/^std::ostream& MidiFile::writeLittleEndianULong(std::ostream& out, ulong value) {$/;"	f	class:smf::MidiFile	typeref:typename:std::ostream &
+writeLittleEndianUShort	src/Binasc.cpp	/^std::ostream& Binasc::writeLittleEndianUShort(std::ostream& out, ushort value) {$/;"	f	class:smf::Binasc	typeref:typename:std::ostream &
+writeLittleEndianUShort	src/MidiFile.cpp	/^std::ostream& MidiFile::writeLittleEndianUShort(std::ostream& out, ushort value) {$/;"	f	class:smf::MidiFile	typeref:typename:std::ostream &
+writeToBinary	src/Binasc.cpp	/^int Binasc::writeToBinary(const std::string& outfile, std::istream& input) {$/;"	f	class:smf::Binasc	typeref:typename:int
+writeToBinary	src/Binasc.cpp	/^int Binasc::writeToBinary(const std::string& outfile,$/;"	f	class:smf::Binasc	typeref:typename:int
+writeToBinary	src/Binasc.cpp	/^int Binasc::writeToBinary(std::ostream& out, const std::string& infile) {$/;"	f	class:smf::Binasc	typeref:typename:int
+writeToBinary	src/Binasc.cpp	/^int Binasc::writeToBinary(std::ostream& out, std::istream& input) {$/;"	f	class:smf::Binasc	typeref:typename:int
+writeVLValue	src/MidiFile.cpp	/^void MidiFile::writeVLValue(long aValue, std::vector<uchar>& outdata) {$/;"	f	class:smf::MidiFile	typeref:typename:void
+~Binasc	src/Binasc.cpp	/^Binasc::~Binasc() {$/;"	f	class:smf::Binasc
+~MidiEvent	src/MidiEvent.cpp	/^MidiEvent::~MidiEvent() {$/;"	f	class:smf::MidiEvent
+~MidiEventList	src/MidiEventList.cpp	/^MidiEventList::~MidiEventList() {$/;"	f	class:smf::MidiEventList
+~MidiFile	src/MidiFile.cpp	/^MidiFile::~MidiFile() {$/;"	f	class:smf::MidiFile
+~MidiMessage	src/MidiMessage.cpp	/^MidiMessage::~MidiMessage() {$/;"	f	class:smf::MidiMessage

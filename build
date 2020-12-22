@@ -1,0 +1,2 @@
+#!/bin/bash
+xcodebuild -scheme "tpt_helper Debug" build -quiet && open ./bin/tpt_helperDebug.app/Contents/MacOS/tpt_helperDebug
